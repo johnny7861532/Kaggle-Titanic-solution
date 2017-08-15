@@ -18,7 +18,7 @@
 I have tested for serveral times and the result shows that Sex and pclass and fare is the most important features for this model.
 But u can also try it youself, if u got better solution, please info me : )
 
-The Confusion Matrix
+### The Confusion Matrix ###
 
 ![image](https://github.com/johnny7861532/Kaggle-Titanic-solution/blob/master/confusion%20matrix.png)
 
